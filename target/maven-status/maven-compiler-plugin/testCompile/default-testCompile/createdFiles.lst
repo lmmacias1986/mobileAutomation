@@ -1,0 +1,5 @@
+tests/RunCucumberTest.class
+tests/MainTest.class
+pages/BasePage.class
+tests/abstractBaseTest/TestBase.class
+pages/MainPage.class
